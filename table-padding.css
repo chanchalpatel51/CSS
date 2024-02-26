@@ -1,0 +1,9 @@
+table{
+    border-style: solid;
+    border-color: rgba(70, 67, 67, 0.83);
+}
+td,th{
+    border-style: solid;
+    border-color: rgba(70, 67, 67, 0.83);
+    padding: 10px;
+}
